@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana;
+}
+
+#pagina {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+#pagina div {
+    margin: 0 auto;
+}
+
+#imatge img {
+    width: 175px;
+}
+
+#menu {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+    border: 1px solid blue;
+    background-color: blue;
+
+    padding: 10px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: white;
+}

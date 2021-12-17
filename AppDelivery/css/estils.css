@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana;
+}
+
+#pagina {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#pagina div {
+    margin: 0 auto;
+}
+
+#imatge {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+#imatge img {
+    height: 175px;
+}
+
+#usuari {
+    padding-bottom: 20px;
+}
+
+#usuari i {
+    font-size: 30px;
+}
+
+#usuari input {
+    height: 30px;
+}
+
+#contrasenya {
+    padding-bottom: 100px;
+}
+
+#contrasenya i {
+    font-size: 30px;
+}
+
+#contrasenya input {
+    height: 30px;
+}
+
+#iniciar input {
+    height: 35px;
+    width: 70px;
+}

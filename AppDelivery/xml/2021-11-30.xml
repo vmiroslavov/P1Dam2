@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<infinity>
+    <comanda id="paquet1">
+        <IDPaquet>paquet1</IDPaquet>
+        <DNIClient>x23456789</DNIClient>
+        <DNIRep>x12345678</DNIRep>
+        <direccio>verge del claustre 57</direccio>
+        <latitud>41.7814002</latitud>
+        <longitud>1.2845388</longitud>
+        <pes>200g</pes>
+        <codip>25300</codip>
+        <estat>No entregat</estat>
+        <dataEnt>2021-11-25</dataEnt>
+    </comanda>
+    <comanda id="paquet2">
+        <IDPaquet>paquet2</IDPaquet>
+        <DNIClient>x23456789</DNIClient>
+        <DNIRep>x12345678</DNIRep>
+        <direccio>carrer24 porta 60</direccio>
+        <latitud>41.670825</latitud>
+        <longitud>1.270178</longitud>
+        <pes>100g</pes>
+        <codip>25210</codip>
+        <estat>No entregat</estat>
+        <dataEnt>2021-11-25</dataEnt>
+    </comanda>
+    <comanda id="paquet3">
+        <IDPaquet>paquet3</IDPaquet>
+        <DNIClient>x23456789</DNIClient>
+        <DNIRep>x12345678</DNIRep>
+        <direccio>carrer3</direccio>
+        <latitud>41.7833925</latitud>
+        <longitud>1.2824551</longitud>
+        <pes>300g</pes>
+        <codip>25600</codip>
+        <estat>Entregat</estat>
+        <dataEnt>2021-11-26</dataEnt>
+    </comanda>
+</infinity>

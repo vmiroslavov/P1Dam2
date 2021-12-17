@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infinity>
+    <comanda id="paquet1">
+        <IDPaquet>paquet1</IDPaquet>
+        <DNIClient>x23456789</DNIClient>
+        <DNIRep>x12345678</DNIRep>
+        <direccio>verge del claustre 57</direccio>
+        <latitud>36.56789</latitud>
+        <longitud>42.78965</longitud>
+        <pes>200g</pes>
+        <codip>25300</codip>
+        <estat>No entregat</estat>
+        <dataEnt>2021-11-25</dataEnt>
+    </comanda>
+</infinity>
